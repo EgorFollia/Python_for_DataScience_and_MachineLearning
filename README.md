@@ -33,4 +33,3 @@ Natural Language Processing
 Neural Nets and Deep Learning
 
 Support Vector Machines
-
